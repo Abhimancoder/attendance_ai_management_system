@@ -1,0 +1,11 @@
+{
+  "students": [
+    {
+      "roll_no": "001",
+      "name": "Student One",
+      "total_classes": 10,
+      "classes_attended": 8,
+      "attendance_percentage": 80.0
+    }
+  ]
+}
